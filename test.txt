@@ -8,3 +8,14 @@ README.md
 routes
 test.txt
 views
+total 44
+-rw-r--r--. 1 root root  1079 Jul  6 02:14 app.js
+drwxr-xr-x. 2 root root    17 Jul  6 02:14 bin
+drwxr-xr-x. 2 root root    25 Jul  6 02:14 data
+-rw-r--r--. 1 root root   343 Jul  6 02:14 package.json
+-rw-r--r--. 1 root root 27225 Jul  6 02:14 package-lock.json
+drwxr-xr-x. 4 root root    44 Jul  6 02:14 public
+-rw-r--r--. 1 root root   582 Jul  6 02:24 README.md
+drwxr-xr-x. 2 root root    39 Jul  6 02:14 routes
+-rw-r--r--. 1 root root    86 Jul  6 02:28 test.txt
+drwxr-xr-x. 2 root root    61 Jul  6 02:14 views
