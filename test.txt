@@ -19,3 +19,6 @@ drwxr-xr-x. 4 root root    44 Jul  6 02:14 public
 drwxr-xr-x. 2 root root    39 Jul  6 02:14 routes
 -rw-r--r--. 1 root root    86 Jul  6 02:28 test.txt
 drwxr-xr-x. 2 root root    61 Jul  6 02:14 views
+anaconda-ks.cfg
+cicd-pipeline-train-schedule-git
+original-ks.cfg
